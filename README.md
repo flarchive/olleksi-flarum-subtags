@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of olleksi/flarum-subtags.** Not for installation: use [Packagist](https://packagist.org/packages/olleksi/flarum-subtags) or the [upstream repository](https://github.com/olleksi/flarum-subtags-display).
 
-**0** versions archived · Latest: [`v0.0.3`](https://github.com/flarchive/olleksi-flarum-subtags/tree/archive/v0.0.3) · Flarum: `^1.0`
+**3** versions archived · Latest: [`v0.0.3`](https://github.com/flarchive/olleksi-flarum-subtags/tree/archive/v0.0.3) · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2025-11-03 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-subtags/tree/archive/v0.0.1) |
+| `v0.0.2` | 2025-11-04 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-subtags/tree/archive/v0.0.2) |
+| `v0.0.3` | 2025-11-08 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-subtags/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/olleksi-flarum-subtags.json](https://github.com/flarchive/archive-index/blob/main/packages/olleksi-flarum-subtags.json)
 
